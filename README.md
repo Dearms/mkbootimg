@@ -1,3 +1,4 @@
+inux环境解包和打包boot.img,支持 dtb(dt.img)
 mkbootimg_tools
 ===============
 
